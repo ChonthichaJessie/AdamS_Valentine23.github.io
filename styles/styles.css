@@ -16,10 +16,15 @@ You are discouraged from changing any provided CSS.
 
 /************* site defaults *************/
 body {
+    background-color: black;
     width: 950px;
     margin: 0 auto;
     font-family: 'Montserrat', sans-serif;
     line-height: 1.5;
+}
+
+h1,h2 {
+    color: hotpink;
 }
 
 /* TO DO: all elements with the .flex class applied are to be made into flex-box containers. */
